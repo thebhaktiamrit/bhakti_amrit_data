@@ -329,6 +329,14 @@ const deities = {
     desc: 'অন্ন, পুষ্টি ও করুণার দেবী',
     img: 'icons/annapurna.webp',
   },
+  chhathi_maiya: {
+    name: 'ছঠি মাইয়া',
+    english: 'Chhathi Maiya',
+    emoji: '🌅',
+    color: '#FF6F00',
+    desc: 'সূর্য উপাসনা, সন্তান সুখ ও সমৃদ্ধির দেবী',
+    img: 'icons/chhathi_maiya.webp',
+  },
   tulsi: {
     name: 'শ্রী তুলসী',
     english: 'Shri Tulsi',
@@ -376,6 +384,14 @@ const deities = {
     color: '#8E24AA',
     desc: 'লোকআস্থার পূজ্য মাতৃশক্তি',
     img: 'icons/rani_sati.webp',
+  },
+  neem_karoli_baba: {
+    name: 'নীম করোলি বাবা',
+    english: 'Neem Karoli Baba',
+    emoji: '🙏',
+    color: '#FF9800',
+    desc: 'ভক্তি, সেবা ও প্রেমের সাধু',
+    img: 'icons/neem_karoli_baba.webp',
   },
   ravidas: {
     name: 'শ্রী রবিদাস',
