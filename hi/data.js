@@ -6,7 +6,7 @@ const deities = {
     emoji: '🐘',
     color: '#FF6B00',
     desc: 'विघ्नहर्ता, प्रथम पूज्य',
-    img: 'icons/ganesh.webp',
+    img: 'ganesh.webp',
   },
   shiva: {
     name: 'श्री शिव',
@@ -14,7 +14,7 @@ const deities = {
     emoji: '🔱',
     color: '#4169E1',
     desc: 'महादेव, भोलेनाथ, संहारक',
-    img: 'icons/shiv.webp',
+    img: 'shiv.webp',
   },
   parvati: {
     name: 'श्री पार्वती',
@@ -22,7 +22,7 @@ const deities = {
     emoji: '🪷',
     color: '#AD1457',
     desc: 'शिव की अर्धांगिनी, शक्ति और मातृत्व की देवी',
-    img: 'icons/parvati.webp',
+    img: 'parvati.webp',
   },
   vishnu: {
     name: 'श्री विष्णु',
@@ -30,7 +30,7 @@ const deities = {
     emoji: '✨',
     color: '#0080FF',
     desc: 'पालनहार, नारायण, जगत के पालक',
-    img: 'icons/vishnu.webp',
+    img: 'vishnu.webp',
   },
   lakshmi: {
     name: 'श्री लक्ष्मी',
@@ -38,7 +38,7 @@ const deities = {
     emoji: '🪷',
     color: '#FFD700',
     desc: 'धनदात्री, कमलावासिनी, समृद्धि की देवी',
-    img: 'icons/lakshmi.webp',
+    img: 'lakshmi.webp',
   },
   durga: {
     name: 'श्री दुर्गा',
@@ -46,7 +46,7 @@ const deities = {
     emoji: '🌸',
     color: '#FF1493',
     desc: 'आदिशक्ति, महामाया, सिंहवाहिनी',
-    img: 'icons/durga.webp',
+    img: 'durga.webp',
   },
   kali: {
     name: 'श्री काली',
@@ -54,7 +54,7 @@ const deities = {
     emoji: '⚡',
     color: '#800080',
     desc: 'महाकाली, तारा, आद्यशक्ति की उग्र रूप',
-    img: 'icons/kali.webp',
+    img: 'kali.webp',
   },
   ram: {
     name: 'श्री राम',
@@ -62,7 +62,7 @@ const deities = {
     emoji: '🏹',
     color: '#00AA00',
     desc: 'मर्यादा पुरुषोत्तम, रघुकुल के भूषण',
-    img: 'icons/ram.webp',
+    img: 'ram.webp',
   },
   hanuman: {
     name: 'श्री हनुमान',
@@ -70,7 +70,7 @@ const deities = {
     emoji: '🙏',
     color: '#FF4500',
     desc: 'पवनपुत्र, बजरंगबली, राम भक्त शिरोमणि',
-    img: 'icons/hanuman.webp',
+    img: 'hanuman.webp',
   },
   balaji: {
     name: 'श्री बालाजी',
@@ -78,7 +78,7 @@ const deities = {
     emoji: '🏹',
     color: '#8D6E63',
     desc: 'संकटमोचक पूज्य स्वरूप',
-    img: 'icons/balaji.webp',
+    img: 'balaji.webp',
   },
   pretraj_sarkar: {
     name: 'श्री प्रेतराज सरकार',
@@ -86,7 +86,7 @@ const deities = {
     emoji: '🔥',
     color: '#4E342E',
     desc: 'नकारात्मक बाधा निवारक',
-    img: 'icons/pretraj_sarkar.webp',
+    img: 'pretraj_sarkar.webp',
   },
   krishna: {
     name: 'श्री कृष्ण',
@@ -94,7 +94,7 @@ const deities = {
     emoji: '🪈',
     color: '#0000CD',
     desc: 'गोविन्द, मुरलीमनोहर, ब्रजबिहारी',
-    img: 'icons/krishna.webp',
+    img: 'krishna.webp',
     geeta: typeof geetaData !== 'undefined' ? geetaData.krishna : null,
   },
   khatu_shyam: {
@@ -103,7 +103,7 @@ const deities = {
     emoji: '🏹',
     color: '#FF4500',
     desc: 'हारे का सहारा, मोर्वी नंदन, कलियुग के अवतारी',
-    img: 'icons/khatu_shyam.webp',
+    img: 'khatu_shyam.webp',
   },
   tirupati_balaji: {
     name: 'श्री तिरुपति बालाजी',
@@ -111,7 +111,7 @@ const deities = {
     emoji: '🌟',
     color: '#FFD54F',
     desc: 'श्री वेंकटेश्वर, विष्णु का पूज्य स्वरूप',
-    img: 'icons/tirupati_balaji.webp',
+    img: 'tirupati_balaji.webp',
   },
   jagannath: {
     name: 'श्री जगन्नाथ',
@@ -119,7 +119,7 @@ const deities = {
     emoji: '🕉️',
     color: '#4CAF50',
     desc: 'पुरी के प्रसिद्ध देवता, भगवान विष्णु का रूप और भक्ति का प्रतीक',
-    img: 'icons/jagannath.webp',
+    img: 'jagannath.webp',
   },
   gopal: {
     name: 'श्री गोपाल',
@@ -127,7 +127,7 @@ const deities = {
     emoji: '🐄',
     color: '#5C6BC0',
     desc: 'बाल गोविंद, गोपालक, करुणामय',
-    img: 'icons/gopal.webp',
+    img: 'gopal.webp',
   },
   balarama: {
     name: 'श्री बलराम',
@@ -135,7 +135,7 @@ const deities = {
     emoji: '🙏',
     color: '#F5F5DC',
     desc: 'श्री कृष्ण के ज्येष्ठ भ्राता, शेषनाग के अवतार, शक्ति और धर्म के प्रतीक',
-    img: 'icons/balarama.webp',
+    img: 'balarama.webp',
   },
   narasimha: {
     name: 'श्री नरसिंह',
@@ -143,7 +143,7 @@ const deities = {
     emoji: '🙏',
     color: '#D84315',
     desc: 'भगवान विष्णु का उग्र अवतार, भक्त प्रह्लाद के रक्षक और अधर्म के संहारक',
-    img: 'icons/narasimha.webp',
+    img: 'narasimha.webp',
   },
   vamana: {
     name: 'श्री वामन',
@@ -151,7 +151,7 @@ const deities = {
     emoji: '🙏',
     color: '#6D4C41',
     desc: 'भगवान विष्णु का पाँचवाँ अवतार, धर्म की स्थापना और राजा बलि के उद्धारकर्ता',
-    img: 'icons/vamana.webp',
+    img: 'vamana.webp',
   },
   varaha: {
     name: 'श्री वराह',
@@ -159,7 +159,7 @@ const deities = {
     emoji: '🙏',
     color: '#795548',
     desc: 'भगवान विष्णु का तृतीय अवतार, पृथ्वी माता के उद्धारकर्ता और अधर्म के संहारक',
-    img: 'icons/varaha.webp',
+    img: 'varaha.webp',
   },
   matsya: {
     name: 'श्री मत्स्य',
@@ -167,7 +167,7 @@ const deities = {
     emoji: '🙏',
     color: '#0277BD',
     desc: 'भगवान विष्णु का प्रथम अवतार, वेदों के रक्षक और प्रलय से जीवन के उद्धारकर्ता',
-    img: 'icons/matsya.webp',
+    img: 'matsya.webp',
   },
   kurma: {
     name: 'श्री कूर्म',
@@ -175,7 +175,7 @@ const deities = {
     emoji: '🙏',
     color: '#5D4037',
     desc: 'भगवान विष्णु का द्वितीय अवतार, समुद्र मंथन में मंदराचल पर्वत के आधार बने',
-    img: 'icons/kurma.webp',
+    img: 'kurma.webp',
   },
   hayagriva: {
     name: 'श्री हयग्रीव',
@@ -183,7 +183,7 @@ const deities = {
     emoji: '🙏',
     color: '#1565C0',
     desc: 'भगवान विष्णु का दिव्य अश्वमुखी स्वरूप, ज्ञान, विद्या और वेदों के अधिष्ठाता',
-    img: 'icons/hayagriva.webp',
+    img: 'hayagriva.webp',
   },
   vitthal: {
     name: 'श्री विठ्ठल',
@@ -191,7 +191,7 @@ const deities = {
     emoji: '🙏',
     color: '#1565C0',
     desc: 'भगवान विष्णु का भक्तवत्सल स्वरूप, पंढरपुर के आराध्य देव और भक्ति के प्रतीक',
-    img: 'icons/vitthal.webp',
+    img: 'vitthal.webp',
   },
   ranganatha: {
     name: 'श्री रंगनाथ',
@@ -199,7 +199,7 @@ const deities = {
     emoji: '🙏',
     color: '#1565C0',
     desc: 'भगवान विष्णु का शयन स्वरूप, श्रीरंगम के आराध्य देव और भक्तों के पालनकर्ता',
-    img: 'icons/ranganatha.webp',
+    img: 'ranganatha.webp',
   },
   dhanvantari: {
     name: 'श्री धन्वंतरि',
@@ -207,7 +207,7 @@ const deities = {
     emoji: '🙏',
     color: '#2E7D32',
     desc: 'भगवान विष्णु के दिव्य अवतार, आयुर्वेद और आरोग्य के अधिष्ठाता देव',
-    img: 'icons/dhanvantari.webp',
+    img: 'dhanvantari.webp',
   },
   kartikeya: {
     name: 'श्री कार्तिकेय',
@@ -215,7 +215,7 @@ const deities = {
     emoji: '🙏',
     color: '#E65100',
     desc: 'देवसेनापति, भगवान शिव-पार्वती के पुत्र, युद्ध और विजय के देवता',
-    img: 'icons/kartikeya.webp',
+    img: 'kartikeya.webp',
   },
   ayyappa: {
     name: 'श्री अय्यप्पा',
@@ -223,7 +223,7 @@ const deities = {
     emoji: '🙏',
     color: '#5D4037',
     desc: 'हरिहरपुत्र, धर्मशास्ता, भक्ति और धर्म के देवता',
-    img: 'icons/ayyappa.webp',
+    img: 'ayyappa.webp',
   },
   ardhanarishvara: {
     name: 'अर्धनारीश्वर',
@@ -231,7 +231,7 @@ const deities = {
     emoji: '🙏',
     color: '#7B1FA2',
     desc: 'शिव और शक्ति का दिव्य स्वरूप, पुरुष और प्रकृति की एकता का प्रतीक',
-    img: 'icons/ardhanarishvara.webp',
+    img: 'ardhanarishvara.webp',
   },
   surya: {
     name: 'श्री सूर्य',
@@ -239,7 +239,7 @@ const deities = {
     emoji: '☀️',
     color: '#FF8C00',
     desc: 'प्रत्यक्ष देव, जगत के नेत्र, ऊर्जा स्रोत',
-    img: 'icons/surya.webp',
+    img: 'surya.webp',
   },
   shani: {
     name: 'श्री शनि देव',
@@ -247,7 +247,7 @@ const deities = {
     emoji: '⚖️',
     color: '#1a1a1a',
     desc: 'कर्म फल दाता, सूर्य पुत्र, न्याय के देवता',
-    img: 'icons/shani.webp',
+    img: 'shani.webp',
   },
   brihaspati: {
     name: 'श्री बृहस्पति देव',
@@ -255,7 +255,7 @@ const deities = {
     emoji: '📜',
     color: '#EF6C00',
     desc: 'वेदज्ञ, गुरु, न्याय के देवता',
-    img: 'icons/brihaspati.webp',
+    img: 'brihaspati.webp',
   },
   brahma: {
     name: 'श्री ब्रह्मा',
@@ -263,7 +263,7 @@ const deities = {
     emoji: '📜',
     color: '#EF6C00',
     desc: 'सृष्टिकर्ता, वेदज्ञ, चतुर्मुख',
-    img: 'icons/brahma.webp',
+    img: 'brahma.webp',
   },
   saraswati: {
     name: 'श्री सरस्वती',
@@ -271,7 +271,7 @@ const deities = {
     emoji: '🎵',
     color: '#FFFFFF',
     desc: 'विद्यादायिनी, वागदेवी, वीणावादिनी',
-    img: 'icons/saraswati.webp',
+    img: 'saraswati.webp',
   },
   bhairav: {
     name: 'श्री भैरव',
@@ -279,7 +279,7 @@ const deities = {
     emoji: '🐕',
     color: '#37474F',
     desc: 'क्षेत्रपाल, रक्षक, उग्र करुणामय',
-    img: 'icons/bhairav.webp',
+    img: 'bhairav.webp',
   },
   batuk_bhairav: {
     name: 'श्री बटुक भैरव',
@@ -287,7 +287,7 @@ const deities = {
     emoji: '🛡️',
     color: '#455A64',
     desc: 'बाल भैरव, त्वरित रक्षक',
-    img: 'icons/batuk_bhairav.webp',
+    img: 'batuk_bhairav.webp',
   },
   veerabhadra: {
     name: 'श्री वीरभद्र',
@@ -295,7 +295,7 @@ const deities = {
     emoji: '🙏',
     color: '#8B0000',
     desc: 'भगवान शिव का उग्र स्वरूप, धर्म और न्याय के रक्षक',
-    img: 'icons/veerabhadra.webp',
+    img: 'veerabhadra.webp',
   },
   parshuram: {
     name: 'श्री परशुराम',
@@ -303,7 +303,7 @@ const deities = {
     emoji: '🪓',
     color: '#5D4037',
     desc: 'विष्णु अवतार, धर्म रक्षक',
-    img: 'icons/parshuram.webp',
+    img: 'parshuram.webp',
   },
   giriraj: {
     name: 'श्री गिरिराज',
@@ -311,7 +311,7 @@ const deities = {
     emoji: '⛰️',
     color: '#7CB342',
     desc: 'गोवर्धन स्वरूप, शरणदाता',
-    img: 'icons/giriraj.webp',
+    img: 'giriraj.webp',
   },
   navgrah: {
     name: 'श्री नवग्रह',
@@ -319,7 +319,7 @@ const deities = {
     emoji: '🪐',
     color: '#546E7A',
     desc: 'नौ ग्रहों का समष्टि पूजन',
-    img: 'icons/navgrah.webp',
+    img: 'navgrah.webp',
   },
   vishwakarma: {
     name: 'श्री विश्वकर्मा',
@@ -327,7 +327,7 @@ const deities = {
     emoji: '🛠️',
     color: '#6D4C41',
     desc: 'देव शिल्पी, निर्माण देव',
-    img: 'icons/vishwakarma.webp',
+    img: 'vishwakarma.webp',
   },
   sai: {
     name: 'श्री साईं',
@@ -335,7 +335,7 @@ const deities = {
     emoji: '🕯️',
     color: '#9E9D24',
     desc: 'श्रद्धा और सबूरी के प्रतीक',
-    img: 'icons/sai.webp',
+    img: 'sai.webp',
   },
   mahavir: {
     name: 'श्री महावीर',
@@ -343,7 +343,7 @@ const deities = {
     emoji: '🪷',
     color: '#26A69A',
     desc: 'अहिंसा, तप और सत्य के आदर्श',
-    img: 'icons/mahavir.webp',
+    img: 'mahavir.webp',
   },
   pitar: {
     name: 'श्री पितर',
@@ -351,7 +351,7 @@ const deities = {
     emoji: '🕯',
     color: '#6D4C41',
     desc: 'पूर्वज पूजन, कुल आशीर्वाद',
-    img: 'icons/pitar.webp',
+    img: 'pitar.webp',
   },
   vaishno_devi: {
     name: 'श्री वैष्णो देवी',
@@ -359,7 +359,7 @@ const deities = {
     emoji: '🛕',
     color: '#C2185B',
     desc: 'त्रिकुटा वासिनी, शक्ति स्वरूपा',
-    img: 'icons/vaishno_devi.webp',
+    img: 'vaishno_devi.webp',
   },
   sheetla: {
     name: 'श्री शीतला',
@@ -367,7 +367,7 @@ const deities = {
     emoji: '🧺',
     color: '#00ACC1',
     desc: 'आरोग्य दायिनी माता',
-    img: 'icons/sheetla.webp',
+    img: 'sheetla.webp',
   },
   mahakali: {
     name: 'श्री महाकाली',
@@ -375,7 +375,7 @@ const deities = {
     emoji: '⚔️',
     color: '#283593',
     desc: 'काल-विनाशिनी, अदम्य शक्ति',
-    img: 'icons/mahakali.webp',
+    img: 'mahakali.webp',
   },
   baglamukhi: {
     name: 'श्री बगलामुखी',
@@ -383,7 +383,7 @@ const deities = {
     emoji: '🟡',
     color: '#FBC02D',
     desc: 'दशमहाविद्या, स्तंभन शक्ति',
-    img: 'icons/baglamukhi.webp',
+    img: 'baglamukhi.webp',
   },
   mahalakshmi: {
     name: 'श्री महालक्ष्मी',
@@ -391,7 +391,7 @@ const deities = {
     emoji: '💰',
     color: '#F9A825',
     desc: 'ऐश्वर्य, सौभाग्य, मंगलमयी',
-    img: 'icons/mahalakshmi.webp',
+    img: 'mahalakshmi.webp',
   },
   gayatri: {
     name: 'श्री गायत्री',
@@ -399,7 +399,7 @@ const deities = {
     emoji: '📿',
     color: '#FF7043',
     desc: 'वेदमाता, बुद्धि प्रदायिनी',
-    img: 'icons/gayatri.webp',
+    img: 'gayatri.webp',
   },
   sharda: {
     name: 'श्री शारदा',
@@ -407,7 +407,7 @@ const deities = {
     emoji: '📖',
     color: '#5E35B1',
     desc: 'ज्ञान और वाणी का स्वरूप',
-    img: 'icons/sharda.webp',
+    img: 'sharda.webp',
   },
   radha: {
     name: 'श्री राधा',
@@ -415,7 +415,7 @@ const deities = {
     emoji: '🌸',
     color: '#EC407A',
     desc: 'भक्ति और प्रेम की अधिष्ठात्री',
-    img: 'icons/radha.webp',
+    img: 'radha.webp',
   },
   santoshi_maa: {
     name: 'श्री संतोषी माँ',
@@ -423,7 +423,7 @@ const deities = {
     emoji: '🍚',
     color: '#F06292',
     desc: 'संतोष, सुख और सरल भक्ति',
-    img: 'icons/santoshi_maa.webp',
+    img: 'santoshi_maa.webp',
   },
   vindhyeshwari: {
     name: 'श्री विन्ध्येश्वरी',
@@ -431,7 +431,7 @@ const deities = {
     emoji: '🌺',
     color: '#D81B60',
     desc: 'विंध्यवासिनी माता का स्वरूप',
-    img: 'icons/vindhyeshwari.webp',
+    img: 'vindhyeshwari.webp',
   },
   annapurna: {
     name: 'श्री अन्नपूर्णा',
@@ -439,7 +439,7 @@ const deities = {
     emoji: '🍲',
     color: '#FF8F00',
     desc: 'अन्न, पोषण और करुणा की देवी',
-    img: 'icons/annapurna.webp',
+    img: 'annapurna.webp',
   },
   chhathi_maiya: {
     name: 'छठी मैया',
@@ -447,7 +447,7 @@ const deities = {
     emoji: '🌅',
     color: '#FF6F00',
     desc: 'सूर्य उपासना, संतान सुख और समृद्धि की देवी',
-    img: 'icons/chhathi_maiya.webp',
+    img: 'chhathi_maiya.webp',
   },
   tulsi: {
     name: 'श्री तुलसी',
@@ -455,7 +455,7 @@ const deities = {
     emoji: '🌿',
     color: '#43A047',
     desc: 'पवित्रता, भक्ति और संरक्षण',
-    img: 'icons/tulsi.webp',
+    img: 'tulsi.webp',
   },
   ganga: {
     name: 'श्री गंगा',
@@ -463,7 +463,7 @@ const deities = {
     emoji: '🌊',
     color: '#1E88E5',
     desc: 'पावन नदी, मोक्षदायिनी',
-    img: 'icons/ganga.webp',
+    img: 'ganga.webp',
   },
   narmada: {
     name: 'श्री नर्मदा',
@@ -471,7 +471,7 @@ const deities = {
     emoji: '💧',
     color: '#039BE5',
     desc: 'रेवा माता, पुण्यदायिनी',
-    img: 'icons/narmada.webp',
+    img: 'narmada.webp',
   },
   shakambhari: {
     name: 'श्री शाकम्भरी',
@@ -479,7 +479,7 @@ const deities = {
     emoji: '🥬',
     color: '#7CB342',
     desc: 'अन्न-वनस्पति पोषक देवी',
-    img: 'icons/shakambhari.webp',
+    img: 'shakambhari.webp',
   },
   lalita_shakambhari: {
     name: 'श्री ललिता शाकम्भरी',
@@ -487,7 +487,7 @@ const deities = {
     emoji: '🌼',
     color: '#8BC34A',
     desc: 'ललिता और शाकम्भरी का संयुक्त भाव',
-    img: 'icons/lalita_shakambhari.webp',
+    img: 'lalita_shakambhari.webp',
   },
   rani_sati: {
     name: 'श्री राणी सती',
@@ -495,7 +495,7 @@ const deities = {
     emoji: '🏵️',
     color: '#8E24AA',
     desc: 'लोक आस्था की पूज्य मातृशक्ति',
-    img: 'icons/rani_sati.webp',
+    img: 'rani_sati.webp',
   },
   neem_karoli_baba: {
     name: 'नीम करोली बाबा',
@@ -503,7 +503,7 @@ const deities = {
     emoji: '🙏',
     color: '#FF9800',
     desc: 'भक्ति, सेवा और प्रेम के संत',
-    img: 'icons/neem_karoli_baba.webp',
+    img: 'neem_karoli_baba.webp',
   },
   ravidas: {
     name: 'श्री रविदास',
@@ -511,7 +511,7 @@ const deities = {
     emoji: '🙏',
     color: '#8D6E63',
     desc: 'भक्ति संत, समता संदेश',
-    img: 'icons/ravidas.webp',
+    img: 'ravidas.webp',
   },
   baba_gangaram: {
     name: 'श्री बाबा गंगाराम',
@@ -519,7 +519,7 @@ const deities = {
     emoji: '🛕',
     color: '#6A1B9A',
     desc: 'लोक श्रद्धा के पूज्य संत',
-    img: 'icons/baba_gangaram.webp',
+    img: 'baba_gangaram.webp',
   },
   ramdev: {
     name: 'श्री रामदेव',
@@ -527,7 +527,7 @@ const deities = {
     emoji: '🐎',
     color: '#8E24AA',
     desc: 'लोकदेव, जनकल्याणकारी',
-    img: 'icons/ramdev.webp',
+    img: 'ramdev.webp',
   },
   jaharveer: {
     name: 'श्री जाहरवीर',
@@ -535,7 +535,7 @@ const deities = {
     emoji: '🏇',
     color: '#795548',
     desc: 'लोक रक्षक, वीर देव',
-    img: 'icons/jaharveer.webp',
+    img: 'jaharveer.webp',
   },
   gorakh_nath: {
     name: 'श्री गोरख नाथ',
@@ -543,6 +543,6 @@ const deities = {
     emoji: '🧘',
     color: '#607D8B',
     desc: 'नाथ योग परंपरा के आचार्य',
-    img: 'icons/gorakh_nath.webp',
+    img: 'gorakh_nath.webp',
   },
 };
