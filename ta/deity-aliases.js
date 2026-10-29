@@ -187,7 +187,6 @@ window.deityAliases = {
     'गोवर्धन',
     'गिरिराज महाराज',
   ],
-  mahavir: ['mahaveer', 'vardhaman', 'महावीर', 'महावीर स्वामी', 'वर्धमान'],
   parshuram: ['parashuram', 'bhargava ram', 'परशुराम', 'परशु राम'],
   ramdev: ['ramdevji', 'baba ramdev', 'रामदेव', 'रामदेवजी', 'बाबा रामदेव'],
   pitar: [

@@ -1688,25 +1688,6 @@ const templesData = [
       'linear-gradient(135deg, rgba(255,213,79,0.15), rgba(255,179,0,0.08))',
   },
   {
-    id: 'mahavir-temple-patna',
-    name: 'महावीर मंदिर',
-    nameEn: 'Mahavir Temple',
-    state: 'बिहार',
-    deity: 'भगवान महावीर',
-    type: 'Jain Temple',
-    emoji: '🛕✡️',
-    desc: 'पटना में स्थित प्रसिद्ध जैन मंदिर, जो भगवान महावीर को समर्पित है।',
-    history:
-      'महावीर मंदिर पटना, बिहार में स्थित है और यह जैन धर्म का प्रमुख केंद्र माना जाता है। यहाँ भक्त भगवान महावीर की पूजा और साधना के लिए आते हैं।',
-    timings: '5:00AM – 9:00PM',
-    bestTime: 'महावीर जयंती, नवरात्रि',
-    location: 'पटना, बिहार',
-    mapQuery: 'Mahavir+Temple+Patna+Bihar',
-    color: '#FFB74D',
-    gradient:
-      'linear-gradient(135deg, rgba(255,183,77,0.15), rgba(255,143,0,0.08))',
-  },
-  {
     id: 'dwarka-temple',
     name: 'द्वारका मंदिर',
     nameEn: 'Dwarka Temple',

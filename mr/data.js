@@ -337,14 +337,6 @@ const deities = {
     desc: 'श्रद्धा आणि सबुरीचे प्रतीक',
     img: 'sai.webp',
   },
-  mahavir: {
-    name: 'श्री महावीर',
-    english: 'Shri Mahavir',
-    emoji: '🪷',
-    color: '#26A69A',
-    desc: 'अहिंसा, तप आणि सत्याचे आदर्श',
-    img: 'mahavir.webp',
-  },
   pitar: {
     name: 'श्री पितृदेव',
     english: 'Shri Pitar',
@@ -616,5 +608,21 @@ const deities = {
     color: '#607D8B',
     desc: 'नाथयोग परंपरेचे आचार्य',
     img: 'gorakh_nath.webp',
+  },
+  ashwini_kumaras: {
+    name: 'श्री अश्विनीकुमार',
+    english: 'Shri Ashwini Kumaras',
+    emoji: '🙏',
+    color: '#FFB300',
+    desc: 'देवतांचे दिव्य वैद्य, सूर्यदेवांचे पुत्र आणि आरोग्य, निरोगीपणा व उपचारांचे देव',
+    img: 'icons/ashwini_kumaras.webp',
+  },
+  agni_dev: {
+    name: 'श्री अग्निदेव',
+    english: 'Shri Agni Dev',
+    emoji: '🙏',
+    color: '#E64A19',
+    desc: 'अग्नीचे देवता, देवतांचे संदेशवाहक आणि यज्ञ व पवित्रतेचे प्रतीक',
+    img: 'icons/agni_dev.webp',
   },
 };
